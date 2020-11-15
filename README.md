@@ -16,4 +16,4 @@
 ![다운로드 (1)](https://user-images.githubusercontent.com/63775931/99171430-5ad77700-274c-11eb-897b-d2211347aadd.gif)
 # useContext
 ### 2020.9.16 [블로그](https://dudghsx.tistory.com/23)  
-![다운로드 (1)](https://user-images.githubusercontent.com/63775931/99171430-5ad77700-274c-11eb-897b-d2211347aadd.gif)
+![다운로드](https://user-images.githubusercontent.com/63775931/99179056-27511880-275d-11eb-9c52-c1cccbdef93a.gif)
